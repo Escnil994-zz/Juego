@@ -38,7 +38,7 @@ _Github_
 
 ## Autores ✒️
 
-- **Nilson Escobar** - \_ \_ - [jorgevels](https://github.com/escnil994)
+- **Nilson Escobar** - \_ \_ - [Escnil994](https://github.com/escnil994)
 
 
 
