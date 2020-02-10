@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simon Dice
 
 _Un pequeño juego que te permite avanzar por los niveles recordando una secuencia de colores que se van iluminando_
@@ -56,3 +57,7 @@ Este proyecto está bajo la Licencia (MTI) - mira el archivo [LICENSE.md](LICENS
 ---
 
 ⌨️ Hecho con ❤️ por [Jorvevels](https://github.com/jorvevels) 😊
+=======
+# Juego
+juego modificado del curso de platzi
+>>>>>>> 3e8e54673c6fa293d9bd935cbb7bf6086b245db2
