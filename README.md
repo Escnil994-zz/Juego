@@ -9,7 +9,6 @@ _Un pequeño juego que te permite avanzar por los niveles recordando una secuenc
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** https://jorgevels.github.io/SimonDice/.
 
 ### Pre-requisitos 📋
 
@@ -39,25 +38,14 @@ _Github_
 
 ## Autores ✒️
 
-- **Jorge Velasquez** - \_ \_ - [jorgevels](https://github.com/jorgevels)
+- **Nilson Escobar** - \_ \_ - [jorgevels](https://github.com/escnil994)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto.
 
-## Licencia 📄
 
-Este proyecto está bajo la Licencia (MTI) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Expresiones de Gratitud 🎁
 
-- Comenta a otros sobre este proyecto 📢
-- Invita una cerveza 🍺 a alguien del equipo.
-- Da las gracias públicamente 🤓.
-- etc.
 
----
-
-⌨️ Hecho con ❤️ por [Jorvevels](https://github.com/jorvevels) 😊
+⌨️ Hecho con ❤️ por [Nilson Escobar](https://github.com/escnil994) 😊
 =======
 # Juego
-juego modificado del curso de platzi
 >>>>>>> 3e8e54673c6fa293d9bd935cbb7bf6086b245db2
